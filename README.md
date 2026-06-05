@@ -4,8 +4,7 @@
 
 **Умный Telegram-бот на Go с поддержкой ИИ, голоса и зрения**
 
-![visitors](https://api.visitorbadge.io/api/visitors?path=Jasurios%2FHidirAi&label=visitors&countColor=%2326a641)
-[![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+![visitors](https://api.visitorbadge.io/api/visitors?path=Jasurios%2FHidirAi-v2&label=visitors&countColor=%2326a641)[![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 [![Author](https://img.shields.io/badge/Author-Jasurios-FF6B6B?style=for-the-badge)](https://github.com/Jasurios)
