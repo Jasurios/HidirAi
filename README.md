@@ -9,6 +9,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 [![Author](https://img.shields.io/badge/Author-Jasurios-FF6B6B?style=for-the-badge)](https://github.com/Jasurios)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Jasurios/HidirAi)
+![GitHub issues](https://img.shields.io/github/issues/Jasurios/HidirAi)
+![GitHub stars](https://img.shields.io/github/stars/Jasurios/HidirAi)
+![GitHub forks](https://img.shields.io/github/forks/Jasurios/HidirAi)
+![Repo size](https://img.shields.io/github/repo-size/Jasurios/HidirAi)
+![Top Language](https://img.shields.io/github/languages/top/Jasurios/HidirAi)
+![GitHub Created At](https://img.shields.io/github/created-at/Jasurios/HidirAi)
+![visitors](https://api.visitorbadge.io/api/visitors?path=Jasurios%2FHidirAi&label=visitors&countColor=%2326a641)
+
 </div>
 
 ---
